@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Ayoussefjoo/aorhrfront/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Ayoussefjoo/aorhrfront/static/js/main.91a817f3.chunk.js",
+    "main.js.map": "/Ayoussefjoo/aorhrfront/static/js/main.91a817f3.chunk.js.map",
+    "runtime-main.js": "/Ayoussefjoo/aorhrfront/static/js/runtime-main.f710c056.js",
+    "runtime-main.js.map": "/Ayoussefjoo/aorhrfront/static/js/runtime-main.f710c056.js.map",
+    "static/js/2.44dcf747.chunk.js": "/Ayoussefjoo/aorhrfront/static/js/2.44dcf747.chunk.js",
+    "static/js/2.44dcf747.chunk.js.map": "/Ayoussefjoo/aorhrfront/static/js/2.44dcf747.chunk.js.map",
+    "index.html": "/Ayoussefjoo/aorhrfront/index.html",
+    "precache-manifest.b083262cc8becdaab9e3da3d68c94725.js": "/Ayoussefjoo/aorhrfront/precache-manifest.b083262cc8becdaab9e3da3d68c94725.js",
+    "service-worker.js": "/Ayoussefjoo/aorhrfront/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Ayoussefjoo/aorhrfront/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.44dcf747.chunk.js.LICENSE.txt": "/Ayoussefjoo/aorhrfront/static/js/2.44dcf747.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Ayoussefjoo/aorhrfront/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f710c056.js",
+    "static/js/2.44dcf747.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.91a817f3.chunk.js"
+  ]
+}
